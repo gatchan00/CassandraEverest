@@ -15,5 +15,5 @@ Está preparado para ser usado bajo **Linux**, para su uso correcto debes:
 Para poder hacer uso de este, debemos seguir la presentación, haciendo los ejercicios propuestos cuando se solicite. 
 Si nos quedamos atascados, podemos ejecutar los scripts existentes en **SoyMuyVago** para continuar, ya que tienen los ejercicios resueltos.k
 
-##¿Y qué más?
+## ¿Y qué más?
 Nada más, cualquier cosa, podéis contactar conmigo.
