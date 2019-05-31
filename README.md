@@ -1,6 +1,15 @@
 # CassandraEverest
 Material para el meetup de python+Cassandra
 
+
+## Requisitos
+
+Para poder realizar este taller, debéis tener una VM Unix, (está probado concretamente en CentOS 7).
+
+Instala OpenJDK 8 o superior.
+
+Es necesario también que deis de alta un usuario "everis", y copiéis el contenido de este repositorio en dicho usuario. Hay más información en el apartado **Preparación**
+
 ## Preparación
 Está preparado para ser usado bajo **Linux**, para su uso correcto debes:
 	
